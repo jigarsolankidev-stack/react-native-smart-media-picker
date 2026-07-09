@@ -1,6 +1,6 @@
 {
   "name": "react-native-smart-media-picker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Unified media picker and compressor library for React Native",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jigarsolanki0212/react-native-smart-media-picker.git"
+    "url": "git+https://github.com/jigarsolankidev-stack/react-native-smart-media-picker.git"
   },
-  "author": "Jigar Solanki <jigssolanki82@gmail.com> (https://github.com/jigarsolanki0212)",
+  "author": "Jigar Solanki <jigssolanki82@gmail.com> (https://github.com/jigarsolankidev-stack)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jigarsolanki0212/react-native-smart-media-picker/issues"
+    "url": "https://github.com/jigarsolankidev-stack/react-native-smart-media-picker/issues"
   },
-  "homepage": "https://github.com/jigarsolanki0212/react-native-smart-media-picker#readme",
+  "homepage": "https://github.com/jigarsolankidev-stack/react-native-smart-media-picker#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

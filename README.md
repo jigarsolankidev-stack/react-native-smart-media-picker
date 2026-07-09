@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/react-native-smart-media-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-smart-media-picker)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-smart-media-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-smart-media-picker)
-[![license](https://img.shields.io/npm/l/react-native-smart-media-picker.svg?style=flat-square)](https://github.com/jigarsolanki0212/react-native-smart-media-picker/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/react-native-smart-media-picker.svg?style=flat-square)](https://github.com/jigarsolankidev-stack/react-native-smart-media-picker/blob/main/LICENSE)
 
 A world-class, enterprise-grade, unified media selection and compression library for React Native Android and iOS. 
 
