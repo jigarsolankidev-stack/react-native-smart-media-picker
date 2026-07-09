@@ -1,5 +1,5 @@
-#import <SmartMediaPickerSpec/SmartMediaPickerSpec.h>
+#import <Foundation/Foundation.h>
 
-@interface SmartMediaPicker : NSObject <NativeSmartMediaPickerSpec>
+@interface SmartMediaPicker : NSObject
 
 @end
